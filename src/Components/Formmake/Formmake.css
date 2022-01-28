@@ -1,0 +1,27 @@
+.make__form{
+    margin-top: 5rem;
+}
+.Input__makeform input{
+    width: 100%;
+    margin-bottom: 10px;
+}
+.Input__makeform label{
+    text-align: left;
+    width: 100%;
+}
+.Input__makeform textarea{
+    width: 100%;
+}
+.Input__makeform{
+    border: 1px solid gainsboro;
+    padding: 20px;
+    width: 70%;
+   margin: auto;
+   
+   
+}
+.heading__form{
+    border-bottom: 1px solid gainsboro;
+    margin-bottom: 1rem;
+    
+}

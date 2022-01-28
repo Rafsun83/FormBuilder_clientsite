@@ -1,0 +1,16 @@
+.generate__form{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.Input__form input{
+    width: 70%;
+    margin-bottom: 10px;
+}
+.Input__form button{
+    width: 70%;
+}
+.Form__button button{
+    margin-bottom: 10px;
+    
+}

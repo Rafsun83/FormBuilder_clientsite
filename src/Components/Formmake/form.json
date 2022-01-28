@@ -1,0 +1,40 @@
+[
+    {
+        "sl": 1,
+        "FormName": "FoodForm",
+        "Field": [
+            {
+                "FiledType": "text",
+                "FieldName": "FoodName"
+            },
+            {
+                "FiledType": "text",
+                "FieldName": "FoodDescrip"
+            },
+            {
+                "FiledType": "number",
+                "FieldName": "Calorie"
+            },
+            {
+                "FiledType": "date",
+                "FieldName": "TakenDate"
+            }
+        ],
+        "Data": [
+            {
+                "Id": 1,
+                "FoodName": "Apple",
+                "FoodDescrip": "Red Apple",
+                "Calorie": 150,
+                "TakenDate": "2022-01-27 T10:50 00"
+            },
+            {
+                "Id": 2,
+                "FoodName": "Biriyani",
+                "FoodDescrip": "Kacchi",
+                "Calorie": 1500,
+                "TakenDate": "2022-01-27 T10:50 00"
+            }
+        ]
+    }
+]
